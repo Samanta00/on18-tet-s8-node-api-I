@@ -40,4 +40,6 @@ app.post('/filmes',(req,res)=>{
 
 app.listen(port,()=>{
     console.log('servidor esta rodando')
+
+    
 })
